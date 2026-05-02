@@ -150,7 +150,7 @@ function IndexNavbar() {
               </NavItem>
               <NavItem>
                 <NavLink
-                  href="https://github.com/dylmcgold"
+                  href="https://github.com/fluidskateboards"
                   target="_blank"
                   id="facebook-tooltip"
                 >

@@ -93,7 +93,7 @@ function ProfilePageHeader() {
             </div>
 
             <div className="social-description">
-              <a target="_blank" href="https://github.com/dylmcgold">
+              <a target="_blank" href="https://github.com/fluidskateboards">
                 <i className="fab fa-github home-icon"></i>
               </a>
             </div>
