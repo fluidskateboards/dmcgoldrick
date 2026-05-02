@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.248dbe2b.css",
-    "main.js": "/static/js/main.5011e10d.js",
-    "static/media/neo4jex1.png": "/static/media/neo4jex1.412945a90ab51b4337f3.png",
-    "static/media/VikingscriptHome.png": "/static/media/VikingscriptHome.605b99238c0b68286a7d.png",
-    "static/media/neo4jex2.png": "/static/media/neo4jex2.9aaa9387c4dd36b7e216.png",
-    "static/media/mongodbex.png": "/static/media/mongodbex.6197087554ad7f747f4c.png",
-    "static/media/postgresqlex.png": "/static/media/postgresqlex.db6bc0f0847a48e2430b.png",
-    "static/media/bg7.jpg": "/static/media/bg7.6249276d677cd6fd680e.jpg",
-    "static/media/paymenthandler.png": "/static/media/paymenthandler.a5c1c931d2442490c65e.png",
-    "static/media/mcgresume1.pdf": "/static/media/mcgresume1.5f77ade3f94bc9c27021.pdf",
-    "static/media/nucleo-outline.eot": "/static/media/nucleo-outline.56814a6b7240045e1494.eot",
-    "static/media/nucleo-outline.ttf": "/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
-    "static/media/nucleo-outline.woff": "/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
-    "static/media/nucleo-outline.woff2": "/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
-    "index.html": "/index.html"
+    "main.css": "/dmcgoldrick/static/css/main.76832368.css",
+    "main.js": "/dmcgoldrick/static/js/main.83afaf22.js",
+    "static/media/neo4jex1.png": "/dmcgoldrick/static/media/neo4jex1.412945a90ab51b4337f3.png",
+    "static/media/VikingscriptHome.png": "/dmcgoldrick/static/media/VikingscriptHome.605b99238c0b68286a7d.png",
+    "static/media/neo4jex2.png": "/dmcgoldrick/static/media/neo4jex2.9aaa9387c4dd36b7e216.png",
+    "static/media/mongodbex.png": "/dmcgoldrick/static/media/mongodbex.6197087554ad7f747f4c.png",
+    "static/media/postgresqlex.png": "/dmcgoldrick/static/media/postgresqlex.db6bc0f0847a48e2430b.png",
+    "static/media/bg7.jpg": "/dmcgoldrick/static/media/bg7.6249276d677cd6fd680e.jpg",
+    "static/media/paymenthandler.png": "/dmcgoldrick/static/media/paymenthandler.a5c1c931d2442490c65e.png",
+    "static/media/mcgresume1.pdf": "/dmcgoldrick/static/media/mcgresume1.5f77ade3f94bc9c27021.pdf",
+    "static/media/nucleo-outline.eot": "/dmcgoldrick/static/media/nucleo-outline.56814a6b7240045e1494.eot",
+    "static/media/nucleo-outline.ttf": "/dmcgoldrick/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
+    "static/media/nucleo-outline.woff": "/dmcgoldrick/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
+    "static/media/nucleo-outline.woff2": "/dmcgoldrick/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
+    "index.html": "/dmcgoldrick/index.html"
   },
   "entrypoints": [
-    "static/css/main.248dbe2b.css",
-    "static/js/main.5011e10d.js"
+    "static/css/main.76832368.css",
+    "static/js/main.83afaf22.js"
   ]
 }
