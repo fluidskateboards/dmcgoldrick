@@ -3,7 +3,7 @@ import React, { useRef, useEffect, useState } from "react";
 // reactstrap components
 import { Container, Button } from "reactstrap";
 
-import Resume from "../../assets/img/mcgresume1.pdf";
+import Resume from "../../assets/img/mcgresume.pdf";
 
 // core components
 

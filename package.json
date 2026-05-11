@@ -34,7 +34,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://dylmcgold.com/",
+  "homepage": "https://fluidskateboards.github.io/dmcgoldrick/",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -65,7 +65,7 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^6.3.0",
     "webpack-cli": "^5.1.4"
   }
 }
